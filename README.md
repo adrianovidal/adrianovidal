@@ -1,16 +1,15 @@
-### Hi there 👋
+# Adriano Vidal
 
-<!--
-**adrianovidal/adrianovidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal :wave:
+Entusiasta em desenvolvimento de sistemas e apreseder novas formas de codar. Participante meetupsm workshops e bootcamps.
+Sou um FullStack Developer :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Estou trabalhando na **CAST Group**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em back-end usando Java
+ <br/> :mortar_board: &nbsp; Formado em sistemas de informação pela fasete e pós-gradudo em engenharia de software pela cesmac.
+ <br/> :books: &nbsp; Estudando Elixir, Pyton, AWS e Design Patterns.
+ <br/> :computer: &nbsp; Minha stack: Java, Angular & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, animes, seriados e filmes sci-fi no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AdrianoVidadl-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianovidal//)](https://www.linkedin.com/in/adrianovidal/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-vidalrock@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:vidalrock@gmail.com)](mailto:vidalrock@gmail.com)
